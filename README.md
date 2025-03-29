@@ -120,12 +120,8 @@ Voice_Humour_AI/
 
 Feel free to submit issues and enhancement requests!
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
 - Google Generative AI for providing the AI capabilities
 - Flask and Flask-SocketIO communities for the excellent frameworks
-- All contributors and users of this project 
